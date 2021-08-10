@@ -18,6 +18,6 @@ O parque é como um bosque, e por conta de seu paisagismo se tornou um dos mais 
 
 No inicio do século XX era conhecido como lagoa dos irerês e a lagoa era pertencente aos jesuítas. E foi em 1925 que o Governador [Sólon de Lucena](https://pt.m.wikipedia.org/wiki/S%C3%B3lon_de_Lucena) urbanizou o parque e se transformou em um lugar publico. Antes de 2016 no centro do parque não passavam pessoas, pois em volta do parque haviam pistas que passavam ônibus e carros, e em 12 de junho de 2016 o prefeito [Luciano Cartaxo](https://pt.m.wikipedia.org/wiki/Luciano_Cartaxo) inaugurou a lagoa reformada com novos quiosques, pistas de skate e etc.
 
-algumas imagens antes da reforma
+_algumas imagens antes da reforma_
 ![antes](/imagens/antes.jpg)
 ![antes2](/imagens/antes2.jpg)
