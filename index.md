@@ -8,7 +8,7 @@ O parque Sólon de Lucena, mais conhecido como *Lagoa*, é um dos pontos turíst
 
  A “*lagoa*” está localizada no centro de [João Pessoa](https://pt.m.wikipedia.org/wiki/Jo%C3%A3o_Pessoa), sendo um dos pontos públicos mais famosos da cidade. O Parque é muito frequentado, tanto por turistas ou Habitantes da cidade, pois é um lugar onde se encontra 12 praças, ciclovia, pista de cooper, pista de skate com padrão internacional, área para esportes radicais, com slackline, parede de escalada e um deck disponível gratuitamente para festas e eventos. 
 
-<img src="./imagens/skate.jpg" alt="skate" width="400"/>
+![skate](/imagens/skate.jpg)
 
 O parque é como um bosque, e por conta de seu paisagismo se tornou um dos mais bonitos cartões postais da cidade. Esse paisagismo foi feito pelo Paisagista [Burle marx](https://pt.m.wikipedia.org/wiki/Roberto_Burle_Marx). 
 
