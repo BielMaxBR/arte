@@ -62,4 +62,4 @@ Dentre os problemas do Colonialismo, a exploração das riquezas, que os europeu
 <br><br><br><br>
 
 
-[...](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[não cliquem aqui, eu avisei](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
