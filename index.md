@@ -16,5 +16,4 @@ Somos a dupla do trabalho de artes do Colégio Intensivo Unidade 1
 <br><br><br><br>
 <br><br><br><br>
 
-[!Watch the video](https://youtu.be/T-D1KVIuvjA)
 [não cliquem aqui, eu avisei](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
